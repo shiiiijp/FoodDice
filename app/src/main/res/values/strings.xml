@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">FooDICE</string>
+    <string name="latitude">latitude</string>
+    <string name="longitude">longitude</string>
+    <string name="accuracy">accuracy</string>
+    <string name="altitude">altitude</string>
+</resources>
